@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE note SYSTEM "orarend.dtd">
+
+<orarend>
+
+	<ora id="1" tipus="elmélet">
+		<targy>Algoritmusok és vizsgálatuk</targy>
+		<idopont>
+			<nap>Hétfő</nap>
+			<tol>8</tol>
+			<ig>12</ig>
+		</idopont>
+		<helyszin>A1/12</helyszin>
+		<oktato>Dr. Házy Attila</oktato>
+		<szak>PTI</szak>
+	</ora>
+	
+	<ora id="2" tipus="elmélet">
+		<targy>Mesterséges intelligencia</targy>
+		<idopont>
+			<nap>Hétfő</nap>
+			<tol>12</tol>
+			<ig>15</ig>
+		</idopont>
+		<helyszin>A1/305</helyszin>
+		<oktato>Dr. Dudás László</oktato>
+		<szak>PTI</szak>
+	</ora>
+	
+	<ora id="3" tipus="elmélet">
+		<targy>WEB technológiák</targy>
+		<idopont>
+			<nap>Hétfő</nap>
+			<tol>15</tol>
+			<ig>17</ig>
+		</idopont>
+		<helyszin>In/103</helyszin>
+		<oktato>Agárdi Anita</oktato>
+		<szak>PTI</szak>
+		</ora>
+	
+	<ora id="4" tipus="gyakorlat">
+		<targy>WEB technológiák</targy>
+		<idopont>
+			<nap>Hétfő</nap>
+			<tol>17</tol>
+			<ig>19</ig>
+		</idopont>
+		<helyszin>In/17</helyszin>
+		<oktato>Sátán Ádám</oktato>
+		<szak>PTI</szak>
+	</ora>
+	
+	<ora id="5" tipus="elmélet">
+		<targy>Adatkezelés XML-ben</targy>
+		<idopont>
+			<nap>Kedd</nap>
+			<tol>12</tol>
+			<ig>14</ig>
+		</idopont>
+		<helyszin>XXXVII A3 A5 között</helyszin>
+		<oktato>Dr. Bednarik László</oktato>
+		<szak>PTI</szak>
+	</ora>
+	
+	<ora id="6" tipus="gyakorlat">
+		<targy>Adatkezelés XML-ben</targy>
+		<idopont>
+			<nap>Kedd</nap>
+			<tol>14</tol>
+			<ig>16</ig>
+		</idopont>
+		<helyszin>In/101 In I. e. 101</helyszin>
+		<oktato>Dr. Bednarik László</oktato>
+		<szak>PTI</szak>
+	</ora>
+	
+	<ora id="7" tipus="gyakorlat">
+		<targy>Mesterséges intelligenciák</targy>
+		<idopont>
+			<nap>Kedd</nap>
+			<tol>17</tol>
+			<ig>18</ig>
+		</idopont>
+		<helyszin>In/15 In. fsz 15</helyszin>
+		<oktato>Dr. Dudás László</oktato>
+		<szak>PTI</szak>
+	</ora>
+	
+	<ora id="8" tipus="elmélet">
+		<targy>Vállalati információs rendszerek</targy>
+		<idopont>
+			<nap>Szerda</nap>
+			<tol>16</tol>
+			<ig>20</ig>
+		</idopont>
+		<helyszin>In/202 In II. em. 202</helyszin>
+		<oktato>Dr. Sasvári Péter</oktato>
+		<szak>PTI</szak>
+	</ora>
+	
+	
+	
+	
+</orarend>

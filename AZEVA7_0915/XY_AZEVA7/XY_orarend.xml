@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<orarend>
+
+	<ora id="1" tipus="elmélet">
+		<targy>Algoritmusok és vizsgálatuk</targy>
+		<idopont>
+			<nap>Hétfő</nap>
+			<tol>8</tol>
+			<ig>12</ig>
+		</idopont>
+		<helyszin>A1/12</helyszin>
+		<oktato>Dr. Házy Attila</oktato>
+		<szak>PTI</szak>
+	</ora>
+	
+	<ora id="2" tipus="elmélet">
+		<targy>Mesterséges intelligencia</targy>
+		<idopont>
+			<nap>Hétfő</nap>
+			<tol>12</tol>
+			<ig>15</ig>
+		</idopont>
+		<helyszin>A1/305</helyszin>
+		<oktato>Dr. Dudás László</oktato>
+		<szak>PTI</szak>
+	</ora>
+	
+	<ora id="3" tipus="elmélet">
+		<targy>WEB technológiák</targy>
+		<idopont>
+			<nap>Hétfő</nap>
+			<tol>15</tol>
+			<ig>17</ig>
+		</idopont>
+		<helyszin>In/103</helyszin>
+		<oktato>Agárdi Anita</oktato>
+		<szak>PTI</szak>
+		</ora>
+	
+	<ora id="4" tipus="gyakorlat">
+		<targy>WEB technológiák</targy>
+		<idopont>
+			<nap>Hétfő</nap>
+			<tol>17</tol>
+			<ig>19</ig>
+		</idopont>
+		<helyszin>In/17</helyszin>
+		<oktato>Sátán Ádám</oktato>
+		<szak>PTI</szak>
+	</ora>
+</orarend>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE note SYSTEM "iskola.dtd">
+
+<iskola>
+
+	<tanar kod="1">
+		<nev>Dr. Bednarik László</nev>
+		<szak>PTI</szak>
+	</tanar>
+
+	<tanar kod="2">
+		<nev>Dr. Dudás László</nev>
+		<szak>PTI</szak>
+	</tanar>
+
+	<tantargy kod="1" oktato="1">
+		<tnev>Adatkezelés XML-ben</tnev>
+		<osztaly>G3BPI</osztaly>
+	</tantargy>
+
+</iskola>

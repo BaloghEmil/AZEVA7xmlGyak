@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kezilabda xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XMLSchemaAZEVA7.xsd">
+
+	<jatekvezetok>
+		<jatekvezeto id="1">
+			<nev>Orosz Gábor</nev>
+			<szul_ido>1992.09.28</szul_ido>
+		</jatekvezeto>
+		
+		<jatekvezeto id="2">
+			<nev>Hajdú Dániel</nev>
+			<szul_ido>1993.08.10</szul_ido>
+		</jatekvezeto>
+		
+		<jatekvezeto id="3">
+			<nev>Paulovics Zsolt</nev>
+			<szul_ido>1972.03.14</szul_ido>
+		</jatekvezeto>
+		
+		<jatekvezeto id="4">
+			<nev>Nagy Tamás</nev>
+			<szul_ido>1985.04.19</szul_ido>
+		</jatekvezeto>
+		
+		<jatekvezeto id="5">
+			<nev>Béres Andor</nev>
+			<szul_ido>1991.02.28</szul_ido>
+		</jatekvezeto>
+	
+	
+	</jatekvezetok>
+	
+	<edzok>
+		<edzo nev="Kocsis Csaba">
+			<szul_ido>1980.02.21</szul_ido>
+		</edzo>
+		<edzo nev="Müller Norbert">
+			<szul_ido>1979.04.23</szul_ido>
+		</edzo>
+		<edzo nev="Dévényi Tamás">
+			<szul_ido>1984.11.09</szul_ido>
+		</edzo>
+		<edzo nev="Falcsik Miklós">
+			<szul_ido>1982.11.11</szul_ido>
+		</edzo>
+		<edzo nev="Varga Gergő">
+			<szul_ido>1991.10.24</szul_ido>
+		</edzo>
+	</edzok>
+	
+	<csapatok>
+		<csapat csapatnev="Kazincbarcikai KSE" edzo="Kocsis Csaba">
+			<hely_bajnoksag>1</hely_bajnoksag>
+			<gyozelem>7</gyozelem>
+			<dontetlen>0</dontetlen>
+			<vereseg>1</vereseg>
+			<pontok>15</pontok>
+			<mezszin>
+				<felso>sarga</felso>
+				<also>kek</also>
+			</mezszin>
+		</csapat>
+		
+		<csapat csapatnev="Füzesabonyi SC" edzo="Müller Norbert">
+			<hely_bajnoksag>26</hely_bajnoksag>
+			<gyozelem>0</gyozelem>
+			<dontetlen>2</dontetlen>
+			<vereseg>27</vereseg>
+			<pontok>12</pontok>
+			<mezszin>
+				<felso>zold</felso>
+				<also>feher</also>
+			</mezszin>
+		</csapat>
+		
+		<csapat csapatnev="Kisvárdai KC" edzo="Dévényi Tamás">
+			<hely_bajnoksag>3</hely_bajnoksag>
+			<gyozelem>4</gyozelem>
+			<dontetlen>3</dontetlen>
+			<vereseg>1</vereseg>
+			<pontok>11</pontok>
+			<mezszin>
+				<felso>piros</felso>
+				<also>kek</also>
+			</mezszin>
+		</csapat>
+		
+		<csapat csapatnev="Fehérgyarmati VSE" edzo="Falcsik Miklós">
+			<hely_bajnoksag>4</hely_bajnoksag>
+			<gyozelem>4</gyozelem>
+			<dontetlen>2</dontetlen>
+			<vereseg>3</vereseg>
+			<pontok>10</pontok>
+			<mezszin>
+				<felso>piros</felso>
+				<also>sarga</also>
+			</mezszin>
+		</csapat>
+		
+		<csapat csapatnev="Hajdúböszörményi TE" edzo="Varga Gergő">
+			<hely_bajnoksag>5</hely_bajnoksag>
+			<gyozelem>2</gyozelem>
+			<dontetlen>3</dontetlen>
+			<vereseg>3</vereseg>
+			<pontok>9</pontok>
+			<mezszin>
+				<felso>feher</felso>
+				<also>zold</also>
+			</mezszin>
+		</csapat>
+	</csapatok>
+	
+	<jatekosok>
+		<jatekos jatekosid="11" csapat="Kazincbarcikai KSE">
+			<nev>Koscsó Ádám</nev>
+			<szul_ido>1989.04.10</szul_ido>
+			<golok>40</golok>
+			<ketperc>2</ketperc>
+			<hely_gollovo>9</hely_gollovo>
+		</jatekos>
+		
+		<jatekos jatekosid="12" csapat="Kazincbarcikai KSE">
+			<nev>Kovács Róbert</nev>
+			<szul_ido>1993.08.02</szul_ido>
+			<golok>22</golok>
+			<ketperc>0</ketperc>
+			<hely_gollovo>67</hely_gollovo>
+		</jatekos>
+		
+		<jatekos jatekosid="13" csapat="Kazincbarcikai KSE">
+			<nev>Novák Tamás</nev>
+			<szul_ido>1980.08.10</szul_ido>
+			<golok>1</golok>
+			<ketperc>0</ketperc>
+			<hely_gollovo>168</hely_gollovo>
+		</jatekos>
+		
+		<jatekos jatekosid="14" csapat="Kazincbarcikai KSE">
+			<nev>Orosz Gábor</nev>
+			<szul_ido>1992.09.28</szul_ido>
+			<golok>22</golok>
+			<ketperc>4</ketperc>
+			<hely_gollovo>89</hely_gollovo>
+		</jatekos>
+		
+		<jatekos jatekosid="15" csapat="Kazincbarcikai KSE">
+			<nev>Ponyi Zoltán</nev>
+			<szul_ido>1982.10.15</szul_ido>
+			<golok>1</golok>
+			<ketperc>0</ketperc>
+			<hely_gollovo>143</hely_gollovo>
+		</jatekos>
+	</jatekosok>
+	
+	<merkozesek>
+		<merkozes sorszam="1" jId="2" hazai="Kazincbarcikai KSE" vendeg="Füzesabonyi SC">
+			<felido>11-10</felido>
+			<vegeredmeny>21-10</vegeredmeny>
+		</merkozes>
+		
+		<merkozes sorszam="2" jId="2" hazai="Hajdúböszörményi TE" vendeg="Kazincbarcikai KSE">
+			<felido>9-13</felido>
+			<vegeredmeny>24-24</vegeredmeny>
+		</merkozes>
+		
+		<merkozes sorszam="3" jId="1" hazai="Kazincbarcikai KSE" vendeg="Fehérgyarmati VSE">
+			<felido>16-16</felido>
+			<vegeredmeny>33-28</vegeredmeny>
+		</merkozes>
+		
+		<merkozes sorszam="4" jId="3" hazai="Kisvárdai KC" vendeg="Füzesabonyi SC">
+			<felido>11-10</felido>
+			<vegeredmeny>21-10</vegeredmeny>
+		</merkozes>
+		
+		<merkozes sorszam="5" jId="2" hazai="Hajdúböszörményi TE" vendeg="Kisvárdai KC">
+			<felido>11-10</felido>
+			<vegeredmeny>21-10</vegeredmeny>
+		</merkozes>
+	</merkozesek>
+	
+	<szponzorok>
+		<szponzor id="1">
+			<nev>Generali Biztosito Zrt.</nev>
+			<ir_szam>3744</ir_szam>
+			<varos>Múcsony</varos>
+		</szponzor>
+		
+		<szponzor id="2">
+			<nev>Kiss Munkavédelmi Bt.</nev>
+			<ir_szam>3700</ir_szam>
+			<varos>Kazincbarcika</varos>
+		</szponzor>
+		
+		<szponzor id="3">
+			<nev>Valotherm KFT.</nev>
+			<ir_szam>1195</ir_szam>
+			<varos>Budapest</varos>
+		</szponzor>
+		
+		<szponzor id="4">
+			<nev>Chocholate Brown Studio</nev>
+			<ir_szam>3509</ir_szam>
+			<varos>Miskolc</varos>
+		</szponzor>
+		
+		<szponzor id="5">
+			<nev>Pizza Tábor</nev>
+			<ir_szam>3511</ir_szam>
+			<varos>Miskolc</varos>
+		</szponzor>
+	</szponzorok>
+	
+	<tamogatok>
+		<tamogat csapatnev="Kazincbarcikai KSE" szponzorId="2"/>
+		<tamogat csapatnev="Kazincbarcikai KSE" szponzorId="1"/>
+		<tamogat csapatnev="Kisvárdai KC" szponzorId="1"/>
+		<tamogat csapatnev="Fehérgyarmati VSE" szponzorId="1"/>
+		<tamogat csapatnev="Kazincbarcikai KSE" szponzorId="4"/>
+		<tamogat csapatnev="Füzesabonyi SC" szponzorId="2"/>
+		<tamogat csapatnev="Fehérgyarmati VSE" szponzorId="3"/>
+		<tamogat csapatnev="Hajdúböszörményi TE" szponzorId="5"/>
+	</tamogatok>
+
+
+
+
+
+</kezilabda>
